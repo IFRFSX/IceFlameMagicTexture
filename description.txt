@@ -1,1 +1,2 @@
-PixelBOX is a 16px texture pack filled with cartoon-ish textures.
+The IceFlameMagicTexture by BingFengFSX(IFRFSX),based-PixelBOX.
+license:WTFPL v2.
