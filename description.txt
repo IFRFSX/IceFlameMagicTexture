@@ -1,5 +1,11 @@
 The IceFlameMagicTexture by BingFengFSX(IFRFSX),based-PixelBOX.
 
+size: 16px (included some 32x texture)
+
 Very Beautiful : )
 
-license:WTFPL v2.
+license:CC BY 4.0.
+
+[superflat_bedrock.png] is based [superflat] mod's texture,
+under CC BY-SA 3.0 License,
+Copyright 2014 srifqi.
