@@ -7,3 +7,7 @@ This pack is currently up-to-date with Minetest Game and supports nearly 100% of
 IceFlameMagicTexture 2020-05-31.
 
 The Texture Pack modify from PixelBox by BingFengFSX(IFRFSX),Origin Author is jp and Gambit, The License from WTFPLv2 Change to CC BY 4.0。
+
+"superflat_bedrock.png" is based superflat mod's texture,
+under CC BY-SA 3.0 License,
+Copyright 2014 srifqi.
